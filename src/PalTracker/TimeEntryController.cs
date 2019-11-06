@@ -11,7 +11,7 @@ namespace PalTracker
         {
             _repository = repository;
         }
-
+    //post method
         [HttpPost]
         public IActionResult Create([FromBody] TimeEntry timeEntry)
         {
