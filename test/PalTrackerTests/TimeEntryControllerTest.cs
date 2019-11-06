@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using Moq;
 using PalTracker;
 using Xunit;
-
+ 
 namespace PalTrackerTests
 {
     public class TimeEntryControllerTest
